@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81da7b1e-644f-4627-8c16-1405c812fcb4" name="Changes" comment="commit homework" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="30ibsTvaylEDZRWTGLfj1huapxG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Build.go build deploy_store_by_etherclient.go.executor": "Run",
+    "Go Build.go build go-ethers (1).executor": "Run",
+    "Go Build.go build go-ethers.executor": "Run",
+    "Go Build.go build go-ethers/task1.executor": "Run",
+    "Go Build.go build go-ethers/task2.executor": "Run",
+    "Go Build.go build work1.go.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "ToolWindow.Services.ShowToolbar": "false",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/Users/king",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/counter" />
+      <recent name="$PROJECT_DIR$/store" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="GoApplicationRunConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build go-ethers/task2">
+    <configuration name="go build go-ethers" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-ethers" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="go-ethers" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/InitStore.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build go-ethers/task1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-ethers" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="go-ethers/task1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/task1/work1.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build go-ethers/task2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-ethers" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="go-ethers/task2" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/task2/work2.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build work1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-ethers" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="go-ethers" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/task1/work1.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build go-ethers/task2" />
+        <item itemvalue="Go Build.go build work1.go" />
+        <item itemvalue="Go Build.go build go-ethers/task1" />
+        <item itemvalue="Go Build.go build go-ethers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-3b128438d3f6-07d2d2d66b1e-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-251.26927.50" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-GO-251.26927.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81da7b1e-644f-4627-8c16-1405c812fcb4" name="Changes" comment="" />
+      <created>1754113546260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754113546260</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit homework" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
